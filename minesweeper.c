@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<conio3.h>
+#include"conio3.h"
 #include"headersPF.h"
 int printM(int M[16][16], int stato);
 void zero(int M[16][16],int i, int j);
